@@ -3,5 +3,6 @@
     <pages>
         <page name='Main'/>
         <page name='Apple and Orange'/>
+        <page name='Balance Expression'/>
     </pages>
 </playground>
