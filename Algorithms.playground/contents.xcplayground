@@ -5,5 +5,6 @@
         <page name='Apple and Orange'/>
         <page name='Balance Expression'/>
         <page name='Kangaroo'/>
+        <page name='Divisible Sum Pairs'/>
     </pages>
 </playground>
