@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios'>
+<playground version='6.0' target-platform='macos' display-mode='rendered'>
     <pages>
         <page name='Main'/>
         <page name='Apple and Orange'/>
         <page name='Balance Expression'/>
         <page name='Kangaroo'/>
         <page name='Divisible Sum Pairs'/>
+        <page name='Migratory Birds'/>
     </pages>
 </playground>
